@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     private float horizontalInput;
     private float speedMultiplier = 10f;
-    private float xRange = 20f;
+    private float xRange = 15f;
 
     public GameObject projectilePrefab;
 
